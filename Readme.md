@@ -9,7 +9,7 @@
 
 ## 📌 Mock Tests
 
-- **Test 1**: [CompTIA Cloud Essentials+ Style Quiz – Part 1](https://g.co/gemini/share/245684f27b2e)
+- **Test 1**: [CompTIA Cloud Essentials+ Style Quiz – Part 1](https://g.co/gemini/share/b7d67c252686)
 - **Test 2**: [Cloud Essentials+ Practice Set – Part 2](https://g.co/gemini/share/cc48991ceee1)
 - **Test 3**: [Cloud Essentials+ Practice Set – Part 3](https://example.com/cloud-essentials-test3)
 
